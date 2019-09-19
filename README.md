@@ -12,4 +12,5 @@ the curve using the trapezoidal rule so that charge and rate of reaction can be 
 
 I look forward to continue to expand my Python skills so I can make this program even better! 
 
-- Maria
+Enjoy,
+Maria
